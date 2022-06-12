@@ -2,6 +2,10 @@
 
 My chat app
 
+- select between different categories of food to see some recipes of meals related to that category.
+- Filter the food and select your favorite meals
+- using Provider package
+
 ## Screenshots
 ![alt text](https://lh3.googleusercontent.com/pw/AM-JKLXvi4LzU_VWnUwoXJJMizNsB5gPzvDW1HLJfl41ldWrn-1Kzg9u_gi2rISTuS9C3h9GgLCl0Y9ylIxpwwNSoEZtXkDXg4YeGMVBTSeqvj1OuoBIeRaGOqkyYsIaaqfR5NjhA3yJVJtnDKthpx6zsW4g2w=w437-h969-no?authuser=0)
 
