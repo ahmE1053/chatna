@@ -2,9 +2,14 @@
 
 My chat app
 
-- select between different categories of food to see some recipes of meals related to that category.
-- Filter the food and select your favorite meals
-- using Provider package
+- each user can create an account and attach a profile picture to it.
+- the app can detect when the user is offline and stop him from signing in or sending a message and automatically
+- detect when the connection is back
+- the user stays signed in until he logs out.
+- you can chat individually with each user like WhatsApp and not in a group chat.
+- you can see the person you are chating with his online or last seen status.
+- you can change the app theme between light and dark.
+- using Firebase Firestore database, Firebase Authentication and Provider.
 
 ## Screenshots
 ![alt text](https://lh3.googleusercontent.com/pw/AM-JKLXvi4LzU_VWnUwoXJJMizNsB5gPzvDW1HLJfl41ldWrn-1Kzg9u_gi2rISTuS9C3h9GgLCl0Y9ylIxpwwNSoEZtXkDXg4YeGMVBTSeqvj1OuoBIeRaGOqkyYsIaaqfR5NjhA3yJVJtnDKthpx6zsW4g2w=w437-h969-no?authuser=0)
